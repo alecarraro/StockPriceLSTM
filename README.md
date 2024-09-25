@@ -22,7 +22,7 @@ The dataset used in this project is sourced from Yahoo Finance. In this particul
 
 ## Results
 
-To test the implementation I used three LSTM layers, each with 125 units and a dropout rate of 0.2, trained on 80 epochs on a 4 + 1 training (+ validation) period.The result is shown below.
+To test the implementation I used three LSTM layers, each with 125 units and a dropout rate of 0.2, trained on 80 epochs on a historical data from 2019 to 2024. The result on the testing set is displayed below:
 ![results NVDA](https://github.com/user-attachments/assets/1212200a-1161-43c6-bad0-7dd6731cbe06)
 
 
