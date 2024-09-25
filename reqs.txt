@@ -1,0 +1,10 @@
+numpy
+matplotlib 
+keras 
+joblib 
+pyyaml 
+yfinance 
+pandas 
+pandas_datareader 
+scikit-learn
+tensorflow
